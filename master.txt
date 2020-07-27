@@ -1,2 +1,5 @@
 This is a text file which we will be editing in different branches of this git repository.
 In v2, I created this file and wrote this paragraph.
+
+From the master branch, I wrote this paragraph.
+It must go directly below the v2 paragraph.
